@@ -16,3 +16,4 @@ EXPORTS
     CalculateWslSettingsProtocolIds
     DisableWslService
     EnableWslService
+    WslTestForceInstallFailure
